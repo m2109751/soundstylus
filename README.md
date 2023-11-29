@@ -10,7 +10,7 @@
 
 ## Драфт собственного адаптированного гриппера для коллаборативных манипуляторов
 
-![Poster](img/soundstylus-concept.png)
+![Poster](img/soundstylus-preview.png)
 
 
 
