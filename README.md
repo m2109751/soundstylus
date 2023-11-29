@@ -18,6 +18,12 @@
 
 ![Poster](img/soundstylus-preview.png)
 
+## Рендер адаптированного гриппера с коллаборативным манипулятором
+
+(сгенерированный образ из fusion)
+
+![Poster](img/soundstylus-render.png)
+
 
 
 
